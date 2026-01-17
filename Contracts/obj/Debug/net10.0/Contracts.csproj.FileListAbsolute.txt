@@ -1,0 +1,11 @@
+C:\Library_Book_Management\Contracts\bin\Debug\net10.0\Contracts.deps.json
+C:\Library_Book_Management\Contracts\bin\Debug\net10.0\Contracts.dll
+C:\Library_Book_Management\Contracts\bin\Debug\net10.0\Contracts.pdb
+C:\Library_Book_Management\Contracts\obj\Debug\net10.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Library_Book_Management\Contracts\obj\Debug\net10.0\Contracts.AssemblyInfoInputs.cache
+C:\Library_Book_Management\Contracts\obj\Debug\net10.0\Contracts.AssemblyInfo.cs
+C:\Library_Book_Management\Contracts\obj\Debug\net10.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Library_Book_Management\Contracts\obj\Debug\net10.0\Contracts.dll
+C:\Library_Book_Management\Contracts\obj\Debug\net10.0\refint\Contracts.dll
+C:\Library_Book_Management\Contracts\obj\Debug\net10.0\Contracts.pdb
+C:\Library_Book_Management\Contracts\obj\Debug\net10.0\ref\Contracts.dll
